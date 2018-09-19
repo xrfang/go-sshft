@@ -1,3 +1,3 @@
-# go-sshftp
+# go-sshft
 
 SSH file transfer client for Go
